@@ -2,7 +2,7 @@
 New covid chatbot using rasa 2.0
 
 
-                                                                      RASA CHATBOT
+                                                            
 Introduction
 
 If you want to build a conversational ai we need a bot that should be created so that a person can interact with it. Every time that a person interacts with the computer a chatbot as an assistant can guild a person on that particular website and so that is why chatbot is important.
